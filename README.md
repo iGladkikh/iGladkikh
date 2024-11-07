@@ -1,4 +1,4 @@
-## Hi 👋! My name is Igor, I am a Java backend developer.
+## Hi 👋! My name is Igor, I’m a Java backend developer.
 
 <!--
 **iGladkikh/iGladkikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
